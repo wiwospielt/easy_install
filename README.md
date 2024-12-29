@@ -38,7 +38,7 @@ If you are on a fresh server and logged in as root, at first create a dedicated 
 
 Switch to `[frappe-user]` (using `su [frappe-user]`) and start the setup
 
-	wget https://raw.githubusercontent.com/frappe/bench/develop/install.py
+	wget [https://raw.githubusercontent.com/frappe/bench/develop/install.py](https://github.com/frappe/easy_install/blob/develop/install.py)
 
 
 #### 1. Run the install script
